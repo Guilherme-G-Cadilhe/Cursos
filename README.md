@@ -1,6 +1,5 @@
 # Cursos
 ![Credits to AngelicHellraiser on Deviantart](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/211a4af8-f452-468b-b4d4-630a784a3973/da58fgr-87870335-6c2a-4152-a58d-cf31002e18ac.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjExYTRhZjgtZjQ1Mi00NjhiLWI0ZDQtNjMwYTc4NGEzOTczXC9kYTU4ZmdyLTg3ODcwMzM1LTZjMmEtNDE1Mi1hNThkLWNmMzEwMDJlMThhYy5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.dk8-OzWISpDf2bSFARyCBdjb9DGpRhEa09Mkkin85mo)
----
 <p align="center">
   <a href="https://github.com/Guilherme-G-Cadilhe">• 🗺 Perfil</a> 
     <a href="https://github.com/Guilherme-G-Cadilhe/Estudos-Materias">• 📘 Estudos e Matérias</a> 
