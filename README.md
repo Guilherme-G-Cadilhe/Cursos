@@ -15,6 +15,7 @@
 ## 🗃 Bancos de Dados e Afins
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="70"/>
+
 - **MySQL Curso em Video -** *Introdução do Basico a entrada do Intermediario ao MySQL, com boas praticas e bastante exercicios de codigos para praticar.*
 - **Ferramentas Usadas:** *WampServer e MySQL Workbench*
 - **Horas: 40**
