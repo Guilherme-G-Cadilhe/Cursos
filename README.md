@@ -31,7 +31,7 @@
 - **Horas: 40**
 - [X] **Concluido.**
 > <a href="https://www.evernote.com/l/As-jIdowvsRGpbEKHDedPg8Hxsnt_xMbFdc/">✏️ Anotações </a>
-
+---
 ## 🖥 Front-End e Afins
 
 ---
