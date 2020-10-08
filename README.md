@@ -26,7 +26,7 @@
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="70"/>
 
-- **MySQL Curso em Video -** *Introdução do Basico a entrada do Intermediario ao MySQL, com boas praticas e bastante exercicios de codigos para praticar.*
+- **Curso em Vídeo - MySQL -** *Introdução do Basico a entrada do Intermediario ao MySQL, com boas praticas e bastante exercicios de codigos para praticar.*
 - **Ferramentas Usadas:** *WampServer e MySQL Workbench*
 - **Horas: 40**
 - [X] **Concluido.**
@@ -42,3 +42,13 @@
 - **Horas: 20**
 - [X] **Concluido.**
 > <a href="https://www.evernote.com/l/As_SCunUJtdOaYzpwTUyCHIeJ3GfNw5KqoI/">✏️ Anotações </a>
+<br/>
+=----------=
+<br/>
+
+- **Curso em Vídeo - Lógica de Programação -** *Desde o fundamento da lógica, até Vetores/Arrays e Matrizes. Com bastante exercicios praticos e exemplos.*
+- **Ferramentas Usadas:** *VisualG*
+- **Horas: 40**
+- [X] **Concluido.**
+> <a href="https://www.evernote.com/l/As8V-1Y_-zNMzK45aWcTcCfXn8JfbiRiKzc/">✏️ Anotações </a>
+
