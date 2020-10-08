@@ -36,6 +36,9 @@
 
 ---
 ## 📔 Outros
+<br/>
+=---=
+<br/>
 
 - **IFRS - Banco de Dados I -** *Fundamentos de Bancos de Dados, como modelagem, normalização, Modelo relacional, ER e conceitos fundamentais.*
 - **Ferramentas Usadas:** *Nenhuma*
@@ -43,7 +46,7 @@
 - [X] **Concluido.**
 > <a href="https://www.evernote.com/l/As_SCunUJtdOaYzpwTUyCHIeJ3GfNw5KqoI/">✏️ Anotações </a>
 <br/>
-=----------=
+=---=
 <br/>
 
 - **Curso em Vídeo - Lógica de Programação -** *Desde o fundamento da lógica, até Vetores/Arrays e Matrizes. Com bastante exercicios praticos e exemplos.*
