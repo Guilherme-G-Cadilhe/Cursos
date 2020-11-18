@@ -26,7 +26,7 @@
 <br/>
 
 <details>
-  <summary> <b> Expandir Conteúdo  </b> </summary>
+  <summary> <b> Expandir Conteúdo  </b><i>( Interação Servidor )</i> </summary>
   <br>
   
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="70"/>
@@ -44,7 +44,7 @@
 <br/>
 
 <details>
-  <summary> <b> Expandir Conteúdo  </b> </summary>
+  <summary> <b> Expandir Conteúdo  </b> <i>( Interação Cliente )</i> </summary>
   <br>
   
 </details>
@@ -55,7 +55,7 @@
 <br/>
 
 <details>
-  <summary> <b> Expandir Conteúdo  </b> </summary>
+  <summary> <b> Expandir Conteúdo  </b><i>( Complementos Úteis )</i> </summary>
   <br>
   
 - **Digital Innovation One - Git e GitHub -** *Utilizando o GitBash terminal para fazer todos os comandos básicos para boa utilização do Git e envio para o GitHub.*
