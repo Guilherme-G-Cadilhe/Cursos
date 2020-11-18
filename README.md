@@ -23,7 +23,12 @@
 ![Credits to LIST on Deviantart](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/147fcdc9-8cee-4d3e-9ba7-51f9c4888b30/db6zojy-f2eb848f-5f33-4b93-8bf6-5bbf28631d92.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMTQ3ZmNkYzktOGNlZS00ZDNlLTliYTctNTFmOWM0ODg4YjMwXC9kYjZ6b2p5LWYyZWI4NDhmLTVmMzMtNGI5My04YmY2LTViYmYyODYzMWQ5Mi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.4mWynPGdSR6YC5F6qwPjc0C3v6JnOklQ2bsaX3VxgCU) 
 
 ## 🗃 Back-End e Afins
+<br/>
 
+<details>
+  <summary> <b> Expandir Conteúdo  </b> </summary>
+  <br>
+  
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="70"/>
 
 - **Curso em Vídeo - MySQL -** *Introdução do Basico a entrada do Intermediario ao MySQL, com boas praticas e bastante exercicios de codigos para praticar.*
@@ -31,9 +36,20 @@
 - **Horas: 40**
 - [X] **Concluido.**
 > <a href="https://www.evernote.com/l/As-jIdowvsRGpbEKHDedPg8Hxsnt_xMbFdc/">✏️ Anotações </a>
----
-## 🖥 Front-End e Afins
+</details>
 
+---
+
+## 🖥 Front-End e Afins
+<br/>
+
+<details>
+  <summary> <b> Expandir Conteúdo  </b> </summary>
+  <br>
+  
+</details>
+  
+  
 ---
 ## 📔 Outros
 <br/>
