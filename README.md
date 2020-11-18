@@ -37,9 +37,11 @@
 ---
 ## 📔 Outros
 <br/>
-=---=
-<br/>
 
+<details>
+  <summary> <b> Expandir Conteúdo  </b> </summary>
+  <br>
+  
 - **Digital Innovation One - Git e GitHub -** *Utilizando o GitBash terminal para fazer todos os comandos básicos para boa utilização do Git e envio para o GitHub.*
 - **Ferramentas Usadas:** *Git ( GitBash )*
 - **Horas: 5**
@@ -65,4 +67,4 @@
 - **Horas: 40**
 - [X] **Concluido.**
 > <a href="https://www.evernote.com/l/As8V-1Y_-zNMzK45aWcTcCfXn8JfbiRiKzc/">✏️ Anotações </a>
-
+ </details>
