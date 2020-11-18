@@ -40,11 +40,22 @@
 =---=
 <br/>
 
+- **Digital Innovation One - Git e GitHub -** *Utilizando o GitBash terminal para fazer todos os comandos básicos para boa utilização do Git e envio para o GitHub.*
+- **Ferramentas Usadas:** *Git ( GitBash )*
+- **Horas: 5**
+- [X] **Concluido.**
+> <a href="https://www.evernote.com/l/As8mA5ZxMsBPPZyqUgy23rNouMvFnGBQZrA/">✏️ Anotações </a> <br/>
+> Nº do Certificado: EA8ABF76
+<br/>
+=---=
+<br/>
+
 - **IFRS - Banco de Dados I -** *Fundamentos de Bancos de Dados, como modelagem, normalização, Modelo relacional, ER e conceitos fundamentais.*
 - **Ferramentas Usadas:** *Nenhuma*
 - **Horas: 20**
 - [X] **Concluido.**
-> <a href="https://www.evernote.com/l/As_SCunUJtdOaYzpwTUyCHIeJ3GfNw5KqoI/">✏️ Anotações </a>
+> <a href="https://www.evernote.com/l/As_SCunUJtdOaYzpwTUyCHIeJ3GfNw5KqoI/">✏️ Anotações </a> <br/>
+> Nº do Certificado: 5f78cf14-27b0-42c7-a6b0-53bdac110005
 <br/>
 =---=
 <br/>
