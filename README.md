@@ -1,9 +1,11 @@
-# Cursos
+<h1 align="center">Cursos</h1>
+
 ---
 
 <p align="center">
-  <a href="https://github.com/Guilherme-G-Cadilhe">• 🗺 Perfil</a> 
-    <a href="https://github.com/Guilherme-G-Cadilhe/Estudos-Materias">• 📘 Estudos e Matérias</a> 
+  <a href="https://github.com/Guilherme-G-Cadilhe">• 🗺 Perfil</a> |
+    <a href="https://github.com/Guilherme-G-Cadilhe/Estudos-Materias">• 📘 Estudos e Matérias</a> |
+   <a href="https://github.com/Guilherme-G-Cadilhe/Projetos">• 🛠️ Projetos</a> 
 </p>
 
 ---
