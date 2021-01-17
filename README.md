@@ -35,7 +35,7 @@
   <summary> <b> Expandir Conteúdo  </b><i>( Interação Servidor )</i> </summary>
   <br>
   
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="70"/>
+<img src="https://www.hti.com.br/images/mysql/mysql-logo.png" alt="mysql" width="65"/>
 
 - **Curso em Vídeo - MySQL -** *Introdução do Basico a entrada do Intermediario ao MySQL, com boas praticas e bastante exercicios de codigos para praticar.*
 - **Ferramentas Usadas:** *WampServer e MySQL Workbench*
