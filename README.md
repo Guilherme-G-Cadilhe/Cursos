@@ -54,7 +54,7 @@
   <br>
   
  - **Digital Innovation One - HTML e CSS -** *Aprendendo as Tags mais utilizadas no HTML e os Elementos mais utilizados no CSS*
-- **Ferramentas Usadas:** *Sublime Text e o famoso Index.html / style.css*
+- **Ferramentas Usadas:** *Sublime Text*
 - **Horas: 6**
 - [X] **Concluido.**
 > <a href="embreve">✏️ Anotações ( Em Conjunto com estudos por fora, do repositorio "Estudos e Matérias" ) </a> <br/>
