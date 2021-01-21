@@ -71,8 +71,18 @@
 <br/>
 
 <details>
-  <summary> <b> Expandir Conteúdo  </b><i>( Complementos Úteis )</i> </summary>
+  <summary> <b> Expandir Conteúdo  </b><i>( Complementos Úteis de Programação, como Banco de Dados, e outros. )</i> </summary>
   <br>
+  
+  - **IFRS - Data Mining -** *O que é o processo de descoberta de conhecimento em bases de dados; Etapas e tarefas do processo de KDD; Mineração de Dados.*
+- **Ferramentas Usadas:** *Nenhuma*
+- **Horas: 20**
+- [X] **Concluido.**
+> <a href="https://www.evernote.com/l/As9VnFB8SUZPP6EGVo8GBBLy8qLtS302_gg/">✏️ Anotações </a> <br/>
+> Nº do Certificado: 600a06d6-1ca8-4465-92c4-ecd1ac110005
+<br/>
+=---=
+<br/>
   
 - **Digital Innovation One - Git e GitHub -** *Utilizando o GitBash terminal para fazer todos os comandos básicos para boa utilização do Git e envio para o GitHub.*
 - **Ferramentas Usadas:** *Git ( GitBash )*
@@ -84,7 +94,7 @@
 =---=
 <br/>
 
-- **IFRS - Banco de Dados I -** *Fundamentos de Bancos de Dados, como modelagem, normalização, Modelo relacional, ER e conceitos fundamentais.*
+- **IFRS - Banco de Dados -** *Fundamentos de Bancos de Dados, como modelagem, normalização, Modelo relacional, ER e conceitos fundamentais.*
 - **Ferramentas Usadas:** *Nenhuma*
 - **Horas: 20**
 - [X] **Concluido.**
