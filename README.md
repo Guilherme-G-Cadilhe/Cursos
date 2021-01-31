@@ -1,7 +1,7 @@
 <h1 align="center">Cursos</h1>
 
 <p align="center">
-  <img src="https://safebooru.org//images/2707/d7d73bb4ba90e830a002f6852e4a1f2baf73eafc.gif" alt="Credits to waneella"
+  <img src="https://thumbs.gfycat.com/AgileFoolhardyJoey-small.gif" alt="credits to Thorgalhala">
 </P>
 <br>
 
