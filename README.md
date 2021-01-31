@@ -18,7 +18,7 @@
 ---
 <h2 align="center">
   <img src="https://i.imgur.com/dStdZtr.png"> 
-  Aqui colocarei cursos que irei aprendendo e concluindo,e compartilhando minhas anotações.
+  Aqui colocarei cursos que irei aprendendo,concluindo, e compartilhando minhas anotações.
   </h2>
   
 ---
