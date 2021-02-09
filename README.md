@@ -44,6 +44,17 @@
 - **Horas: 40**
 - [X] **Concluido.**
 > <a href="https://www.evernote.com/l/As-jIdowvsRGpbEKHDedPg8Hxsnt_xMbFdc/">✏️ Anotações </a>
+
+</br>
+=---=
+</br><br>
+
+- **Softblue - ProfissãoDev Java -** *Curso de Java, Criando um jogo Snake do zero, com o Java, pelo IDE Eclipse.
+Com mentoria do professor Carlos Tosin, utilizando Boas praticas e bastante POO*
+- **Ferramentas Usadas:** *Eclipse*
+- **Horas: 8**
+- [X] **Concluido.**
+> Nº do Certificado: 527895E5C594
 </details>
 
 ---
@@ -61,6 +72,7 @@
 - [X] **Concluido.**
 > <a href="embreve">✏️ Anotações ( Em Conjunto com estudos por fora, do repositorio "Estudos e Matérias" ) </a> <br/>
 > Nº do Certificado: 5145539F
+
 <br/>
 =---=
 <br/>
