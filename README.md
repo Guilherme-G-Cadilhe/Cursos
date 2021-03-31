@@ -66,11 +66,21 @@ Com mentoria do professor Carlos Tosin, utilizando Boas praticas e bastante POO*
   <summary> <b> Expandir Conteúdo  </b> <i>( Interação Cliente )</i> </summary>
   <br>
   
- - **Digital Innovation One - HTML e CSS -** *Aprendendo as Tags mais utilizadas no HTML e os Elementos mais utilizados no CSS*
-- **Ferramentas Usadas:** *Sublime Text*
+- **CursoEmVideo - JavaScript / ECMAScript, -** *Aprendendo o fundamental de JavaScript*
+- **Ferramentas Usadas:** *Visual Studio Code / NodeJS*
+- **Horas: 40**
+- [X] **Concluido.**
+> <a href="https://www.evernote.com/l/As_BwHKaJ2pFGqvbXQjT67mB1I6TxNdtiaM/">✏️ Anotações ( Em Conjunto com estudos por fora, do repositorio "Estudos e Matérias" ) </a> <br/>
+
+
+<br/>
+  
+- **Digital Innovation One - HTML e CSS -** *Aprendendo as Tags mais utilizadas no HTML e os Elementos mais utilizados no CSS*
+- **Ferramentas Usadas:** *Sublime Text / Visual Studio Code*
 - **Horas: 6**
 - [X] **Concluido.**
-> <a href="embreve">✏️ Anotações ( Em Conjunto com estudos por fora, do repositorio "Estudos e Matérias" ) </a> <br/>
+> <a href="https://www.evernote.com/l/As_zIQ4bPwZF7r3--AsPEVMhUY2fTjY-Mkw/">✏️ Anotações HTML ( Em Conjunto com estudos por fora, do repositorio "Estudos e Matérias" ) </a><br>
+> <a href="https://www.evernote.com/l/As8L1LBw59pCWIjl0E_QABWq-nKOf-GRhmA/">✏️ Anotações CSS ( ... )</a> <br/>
 > Nº do Certificado: 5145539F
 
 <br/>
