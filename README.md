@@ -91,7 +91,7 @@ Com mentoria do professor Carlos Tosin, utilizando Boas praticas e bastante POO*
   
   
 ---
-## 📔 Complementos e Afins
+## 📔 Complementos, Ferramentas e Afins
 <br/>
 
 <details>
