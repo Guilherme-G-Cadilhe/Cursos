@@ -1,11 +1,10 @@
 <h1 align="center">Cursos</h1>
 
 <p align="center">
-  <img src="https://thumbs.gfycat.com/AgileFoolhardyJoey-small.gif" alt="credits to Thorgalhala">
+  <img src="https://cdna.artstation.com/p/assets/images/images/025/249/366/original/lennart-butz-ukiyo2.gif?1585180234" alt="credits to Lennart Butz">
 </P>
 <br>
 
-[![HitCount](http://hits.dwyl.com/Guilherme-G-Cadilhe/Guilherme-G-Cadlihe.svg)](http://hits.dwyl.com/Guilherme-G-Cadilhe/Guilherme-G-Cadlihe)
 
 ---
 
@@ -16,11 +15,12 @@
 </p>
 
 ---
-<h2 align="center">
-  <img src="https://i.imgur.com/dStdZtr.png"> 
-  Aqui colocarei cursos que irei aprendendo,concluindo, e compartilhando minhas anotações.
-  </h2>
-  
+
+<p align="center">
+<img width="370" src="https://i.imgur.com/IlAqRnI.png"> </p>
+
+
+*Meus Cursos, Certificados e Anotações, relacionados a área de programação.*
 ---
 
 
